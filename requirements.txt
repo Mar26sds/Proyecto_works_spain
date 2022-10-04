@@ -1,5 +1,5 @@
 streamlit
 gmaps
 pandas
-python
-
+webbrowser
+treamlit.components.v1
