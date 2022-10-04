@@ -186,7 +186,7 @@ if st.button('Ver mapa de las sedes de las empresas en el mundo'):
 
 st.caption('# ¿Contactamos?')
 linkedin_mar = 'https://www.linkedin.com/in/mar-sanchez-de-salas/'
-st.write(nombre1_3, "[Mi linkedin](%s)" % linkedin_mar)
+st.write("[Mi linkedin](%s)" % linkedin_mar)
 if st.button('Mi LinkedIn'):
     webbrowser.open_new_tab(linkedin_mar)
 
