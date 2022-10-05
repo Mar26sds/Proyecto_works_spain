@@ -1,4 +1,4 @@
-![logo2](https://user-images.githubusercontent.com/110724649/194123349-80540fe9-9805-424d-94fe-5a4d4d44464b.png)
+![logo2](https://user-images.githubusercontent.com/110724649/194125159-98e960d5-9a12-4f5c-8de8-7a23807667bc.png)
 
 # Proyecto búsqueda de empleo + web Streamlit
 ## Realizado en Octubre del 2022 por Mar Sánchez de Salas
