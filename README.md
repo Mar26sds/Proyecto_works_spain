@@ -9,7 +9,7 @@ En el presente repositorio encontramos el código y las bases de datos necesaria
 
 1- Realizar un scrapeo con Selenium de las empresas en españa que se relacionaban con "data".
 
-2- Realizar un segundo scrapeo de cada link de la empresa para extraer datos como su nombre, página web, descripción, tamaño de la empresa...
+2- Realizar un segundo scrapeo de cada link de la empresa para extraer datos iformativos como su nombre, página web, descripción, tamaño de la empresa, sector...
 
 3- Elaborar una base de datos con la información de cada empresa y limpieza de dichos datos.
 
@@ -31,3 +31,4 @@ web: https://mar26sds-proyecto-works-spain-streamlit-0v5pbn.streamlitapp.com/
 LinkedIn: https://www.linkedin.com/in/mar-sanchez-de-salas/
 
 Correo electrónico: mar26sds@gmail.com
+
